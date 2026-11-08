@@ -1,0 +1,12 @@
+
+train_number,train_name,source,destination,arrival_time,departure_time,travel_direction,runs_on,verification_status
+54355,Bandikui - Bareilly Passenger,Bandikui,Bareilly,17:25,17:26,Unknown,Unknown,route_verified
+51907,Idgah Agra - Bharatpur Passenger,Idgah Agra,Bharatpur,05:52,05:53,Unknown,Unknown,route_verified
+54356,Bareilly - Bandikui Passenger,Bareilly,Bandikui,06:38,06:39,Unknown,Unknown,route_verified
+64620,Bandikui - Idgah Agra MEMU,Bandikui,Idgah Agra,07:05,07:06,Unknown,Unknown,route_verified
+51908,Bharatpur - Idgah Agra Passenger,Bharatpur,Idgah Agra,09:01,09:02,Unknown,Unknown,route_verified
+64621,Idgah Agra - Bandikui MEMU,Idgah Agra,Bandikui,09:02,09:03,Unknown,Unknown,route_verified
+55333,Kasganj - Agra Fort Passenger,Kasganj,Agra Fort,11:48,11:50,Unknown,Unknown,route_verified
+55334,Agra Fort - Kasganj Passenger,Agra Fort,Kasganj,15:48,15:49,Unknown,Unknown,route_verified
+64622,Bandikui - Idgah Agra MEMU,Bandikui,Idgah Agra,16:09,16:10,Unknown,Unknown,route_verified
+64619,Idgah Agra - Bandikui MEMU,Idgah Agra,Bandikui,18:17,18:18,Unknown,Unknown,route_verified
